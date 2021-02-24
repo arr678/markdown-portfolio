@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![GitHub code](https://github.com/arr678/n00b-and-improved/blob/master/simplemath.ipynb)
