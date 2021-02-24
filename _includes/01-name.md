@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Amanda Rineer's GitHub Portfolio
